@@ -1,3 +1,5 @@
+#!pip install pubchempy
+#!pip install pandas
 import pubchempy as pcp
 import pandas as pd
 
